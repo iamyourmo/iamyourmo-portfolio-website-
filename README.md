@@ -1,2 +1,2 @@
 # iamyourmoo
-https://iamyourmo.github.io/iamyourmoo/
+https://iamyourmo.github.io/iamyourmo-portfolio-website-/
